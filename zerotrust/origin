@@ -1,1 +1,6 @@
+What is zero trust?
+My idea of what zero trust is, was not learnt by theory but by practice only. I'm not even sure if my understanding lines up with the current accepted definition of zero trust. Zero trust is difficult to put into words. I think of it as understanding a business environment, understanding their processes and understanding their risks and formulating a systems and network architecture that provides a mangeable control plane with low risk and low attack surface exposure.
 
+What is my current architecture?
+
+How does a legacy org realistically reach a zero trust arch?
